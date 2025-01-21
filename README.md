@@ -1,16 +1,44 @@
 # mindspace
 
-A new Flutter project.
+Course Code & Name: BIT34103 - Mobile Applications Development (S5 Dr Nasaruddin)
+Institution: [University Tun Hussein Onn Malaysia]
+Project Title: MindSpace - A Comprehensive Learning Platform
 
-## Getting Started
+# Project Overview
+MindSpace is a feature-rich mobile application developed using Flutter as part of the Mobile Applications Development course. The project showcases advanced mobile app development concepts, integrating dynamic functionalities to enhance user experience.
 
-This project is a starting point for a Flutter application.
+# Features
 
-A few resources to get you started if this is your first Flutter project:
+1. Authentication System
+ - Powered by the Supabase API for secure and reliable user authentication.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Search and Filter
+- Search and filter course modules efficiently.
+- Explore course content by category or popularity.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Trending Courses
+- Discover trending courses to keep users updated with popular content.
+
+4. Video Advertisement Playback
+- Play integrated video advertisements to promote courses.
+
+5. Course Purchase (Dummy)
+- Simulated purchase functionality (no payment gateway integration).
+
+6. Flutter Local Notifications
+Notifications triggered upon successful course purchase.
+
+7. Course Video Player
+- Integrated video player for seamless playback of course lessons.
+
+8. PDF Viewer
+- Built-in PDF viewer to access course modules directly within the app.
+
+9. Quiz Features (Dummy)
+- Simulated quiz functionality to engage users in interactive learning.
+
+10. Digital Certificate
+- Generate and download dummy digital certificates in PDF format.
+
+11. Profile Management
+Update profile information and change profile pictures by selecting images from the device.
