@@ -12,39 +12,100 @@ MindSpace is a feature-rich mobile application developed using Flutter as part o
 # Features
 
 1. Authentication System
- - Powered by the Supabase API for secure and reliable user authentication.
+
+   - Powered by the Supabase API for secure and reliable user authentication.
 
 2. Search and Filter
- - Search and filter course modules efficiently.
- - Explore course content by category or popularity.
+ 
+   - Search and filter course modules efficiently.
+   - Explore course content by category or popularity.
 
 3. Trending Courses
- - Discover trending courses to keep users updated with popular content.
+ 
+   - Discover trending courses to keep users updated with popular content.
 
 4. Video Advertisement Playback
- - Play integrated video advertisements to promote courses.
+ 
+   - Play integrated video advertisements to promote courses.
 
 5. Course Purchase (Dummy)
- - Simulated purchase functionality (no payment gateway integration).
+ 
+   - Simulated purchase functionality (no payment gateway integration).
 
 6. Flutter Local Notifications
- - Notifications triggered upon successful course purchase.
+ 
+   - Notifications triggered upon successful course purchase.
 
 7. Course Video Player
- - Integrated video player for seamless playback of course lessons.
+ 
+   - Integrated video player for seamless playback of course lessons.
 
 8. PDF Viewer
- - Built-in PDF viewer to access course modules directly within the app.
+ 
+   - Built-in PDF viewer to access course modules directly within the app.
 
 9. Quiz Features (Dummy)
- - Simulated quiz functionality to engage users in interactive learning.
+ 
+   - Simulated quiz functionality to engage users in interactive learning.
 
 10. Digital Certificate
- - Generate and download dummy digital certificates in PDF format.
+ 
+    - Generate and download dummy digital certificates in PDF format.
 
 11. Profile Management
- - Update profile information and change profile pictures by selecting images from the device.
+ 
+    - Update profile information and change profile pictures by selecting images from the device.
+   
+---
 
+## 🖼️ **Diagram**
+
+
+
+
+
+
+
+---
+
+
+   
+## 🛠️ **Installation and Usage Instructions (End-Users)**
+
+### **🔧 Prerequisites**
+
+Before you start, make sure you have the following tools installed:
+
+
+- **Flutter**: Ensure that you have Flutter installed on your machine. [Get Flutter](https://flutter.dev/docs/get-started/install)
+- **Supabase API**: Create a Supabase account and configure your API key.
+- **Development Environment**: Set up your IDE (e.g., Android Studio, VS Code) with Flutter extensions.
+
+
+---
+
+### **🚀 Steps to Run the App**
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/FarizUchiha/mindspace.git
+    cd delivery_app
+    ```
+
+2. Install dependencies:
+
+    ```bash
+    flutter pub get
+    ```
+
+3. Run the app on your preferred emulator or device:
+
+    ```bash
+    flutter run
+    ```
+
+---
 
 
 
