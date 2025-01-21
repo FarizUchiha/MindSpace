@@ -1,8 +1,8 @@
-# MindSpace
+# MindSpace 📚✨
 
 Course Code & Name: BIT34103 - Mobile Applications Development (S5 Dr Nasaruddin)
 
-Institution: [University Tun Hussein Onn Malaysia]
+Institution: University Tun Hussein Onn Malaysia
 
 Project Title: MindSpace - A Comprehensive Learning Platform
 
@@ -106,6 +106,27 @@ Before you start, make sure you have the following tools installed:
     ```
 
 ---
+
+## 🤝 **Contributor Expectations**
+
+We welcome contributions from the community! If you’re interested in enhancing the app, please adhere to the following guidelines:
+
+1. **Open an issue** to describe the bug or feature you are addressing.  
+2. **Fork the repository** and work on a separate branch.  
+3. **Implement your changes** and submit a pull request (PR).  
+4. Ensure that your code follows the existing coding standards and is well-documented.  
+
+Contributions should align with the app’s overall goals, such as performance improvements, bug fixes, and the addition of features like grocery delivery and sustainability practices.
+
+---
+
+## ⚠️ **Known Issues**
+
+- **No known issues** at this time.  
+
+---
+
+**Thank you for using MindSpace! 📚✨**
 
 
 
