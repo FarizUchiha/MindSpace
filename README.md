@@ -1,7 +1,9 @@
-# mindspace
+# MindSpace
 
 Course Code & Name: BIT34103 - Mobile Applications Development (S5 Dr Nasaruddin)
+
 Institution: [University Tun Hussein Onn Malaysia]
+
 Project Title: MindSpace - A Comprehensive Learning Platform
 
 # Project Overview
