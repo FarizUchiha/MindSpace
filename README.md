@@ -62,7 +62,7 @@ MindSpace is a feature-rich mobile application developed using Flutter as part o
 
 
 docs/index.html
-
+(https://raw.githubusercontent.com/FarizUchiha/MindSpace/docs/index.html)
 
 
 ---
