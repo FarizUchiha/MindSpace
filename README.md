@@ -44,3 +44,7 @@ Notifications triggered upon successful course purchase.
 
 11. Profile Management
 Update profile information and change profile pictures by selecting images from the device.
+
+
+
+
