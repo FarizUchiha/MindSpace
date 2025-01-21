@@ -15,35 +15,35 @@ MindSpace is a feature-rich mobile application developed using Flutter as part o
  - Powered by the Supabase API for secure and reliable user authentication.
 
 2. Search and Filter
-- Search and filter course modules efficiently.
-- Explore course content by category or popularity.
+ - Search and filter course modules efficiently.
+ - Explore course content by category or popularity.
 
 3. Trending Courses
-- Discover trending courses to keep users updated with popular content.
+ - Discover trending courses to keep users updated with popular content.
 
 4. Video Advertisement Playback
-- Play integrated video advertisements to promote courses.
+ - Play integrated video advertisements to promote courses.
 
 5. Course Purchase (Dummy)
-- Simulated purchase functionality (no payment gateway integration).
+ - Simulated purchase functionality (no payment gateway integration).
 
 6. Flutter Local Notifications
-Notifications triggered upon successful course purchase.
+ - Notifications triggered upon successful course purchase.
 
 7. Course Video Player
-- Integrated video player for seamless playback of course lessons.
+ - Integrated video player for seamless playback of course lessons.
 
 8. PDF Viewer
-- Built-in PDF viewer to access course modules directly within the app.
+ - Built-in PDF viewer to access course modules directly within the app.
 
 9. Quiz Features (Dummy)
-- Simulated quiz functionality to engage users in interactive learning.
+ - Simulated quiz functionality to engage users in interactive learning.
 
 10. Digital Certificate
-- Generate and download dummy digital certificates in PDF format.
+ - Generate and download dummy digital certificates in PDF format.
 
 11. Profile Management
-Update profile information and change profile pictures by selecting images from the device.
+ - Update profile information and change profile pictures by selecting images from the device.
 
 
 
