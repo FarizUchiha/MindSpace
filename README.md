@@ -62,7 +62,7 @@ MindSpace is a feature-rich mobile application developed using Flutter as part o
 
 
 
-(assets/System Demo.mp4)
+assets/System Demo.mp4
 
 
 
