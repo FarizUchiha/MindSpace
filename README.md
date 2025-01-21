@@ -61,7 +61,7 @@ MindSpace is a feature-rich mobile application developed using Flutter as part o
 ## 🖼️ **Diagram**
 
 
-[Watch the System Demo Video](https://github.com/FarizUchiha/MindSpace/raw/master/docs/index.html)
+[Watch the System Demo Video](https://github.com/FarizUchiha/MindSpace/raw/master/docs/assets/system.mp4)
 
 
 
